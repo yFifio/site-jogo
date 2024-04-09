@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: blueviolet;
+    border-style: solid;
+    border-color:  blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 57vw;
+    border-left: 20px solid blueviolet;
+    border-right: 20px solid blueviolet;
+    padding: 20px;
+    background-image: url( "img/pexels-philippe-donn-1169754.jpg" );
+    height: 50vw;
+    background-size: cover;
+}
+.insta{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
